@@ -6,8 +6,15 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'switch case in angular';
+  title = 'For Loop in angular';
+  
+  users = ["anil" , "kunal" , "datta", "rohit"];
 
-  color = "yellow";
+  userDetails = [
+    {name:'kuanl', email:'kunal@test.com', phone:'555'},
+    {name:'datta', email:'datta@test.com', phone:'666'},
+    {name:'rohit', email:'rohit@test.com', phone:'777'},
+
+  ]
   
 }
