@@ -6,12 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'if-else condition';
-  show = true;
+  title = 'Multiple conditions and else if';
 
-  showMessage:boolean = false;
-
-  toggleMessage(){
-    this.showMessage = !this.showMessage;
-  }
+  color = "green";
+  
 }
