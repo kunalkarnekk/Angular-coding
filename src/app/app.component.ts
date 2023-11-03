@@ -6,15 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'For Loop in angular';
-  
-  users = ["anil" , "kunal" , "datta", "rohit"];
+  title = 'Template Driven Form in angular';
 
-  userDetails = [
-    {name:'kuanl', email:'kunal@test.com', phone:'555'},
-    {name:'datta', email:'datta@test.com', phone:'666'},
-    {name:'rohit', email:'rohit@test.com', phone:'777'},
+  constructor(){
 
-  ]
-  
+  }
 }

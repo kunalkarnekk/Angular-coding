@@ -1,0 +1,99 @@
+{
+  "Seller": [
+    {
+      "name": "kunal karne",
+      "email": "kunalkarne2020@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "name": "mr.kk",
+      "email": "kk@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "bruce",
+      "email": "bruce@gmail.com",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "name": "kejjo",
+      "email": "kejjo@gmail.com",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "name": "iron",
+      "email": "iron@test.com",
+      "password": "12345",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "name": "iphone",
+      "price": "1000000",
+      "color": "red",
+      "category": "mobaile",
+      "description": "osm mobaile",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/3/5/l/-original-imaghx9qmgqsk9s4.jpeg?q=70",
+      "id": 4
+    },
+    {
+      "name": "samsung 13",
+      "price": "200000",
+      "color": "red",
+      "category": "mobaile",
+      "description": "this is samsung brand",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/a/y/g/-original-imagtnqkutcyzhgq.jpeg?q=70",
+      "id": 5
+    },
+    {
+      "name": "samsung 15",
+      "price": "200000",
+      "color": "red",
+      "category": "mobaile",
+      "description": "this is samsung brand",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/a/y/g/-original-imagtnqkutcyzhgq.jpeg?q=70",
+      "id": 6
+    },
+    {
+      "name": "samsung 13",
+      "price": "200000",
+      "color": "red",
+      "category": "mobaile",
+      "description": "this is samsung brand",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/a/y/g/-original-imagtnqkutcyzhgq.jpeg?q=70",
+      "id": 7
+    },
+    {
+      "name": "samsung 13",
+      "price": "200000",
+      "color": "red",
+      "category": "mobaile",
+      "description": "this is samsung brand",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/a/y/g/-original-imagtnqkutcyzhgq.jpeg?q=70",
+      "id": 8
+    },
+    {
+      "name": "",
+      "price": "",
+      "color": "",
+      "category": "",
+      "description": "",
+      "image": "",
+      "id": 9
+    },
+    {
+      "name": "",
+      "price": "",
+      "color": "",
+      "category": "",
+      "description": "",
+      "image": "asdf",
+      "id": 10
+    }
+  ]
+}
